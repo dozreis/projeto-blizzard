@@ -42,6 +42,18 @@ var slide_hero = new Swiper(".slide-principal", {
   }
 });
 
+const header = document.getElementById('js-header');
+
+function fixedMenu() {
+  if(window.pageYOffset > 96) {
+    header.classList.add('fixed-menu')
+  } else {
+    header.classList.remove('fixed-menu')
+  }
+}
+
+document.addEventListener('scroll', fixedMenu);
+
 const allFilters = document.querySelectorAll('.js-nav-games li a');
 const tabPane = document.querySelectorAll('.tab-pane-games');
 
