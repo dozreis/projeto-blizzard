@@ -43,7 +43,6 @@ var slide_hero = new Swiper(".slide-principal", {
 });
 
 const header = document.getElementById('js-header');
-
 function fixedMenu() {
   if(window.pageYOffset > 96) {
     header.classList.add('fixed-menu')
@@ -51,12 +50,11 @@ function fixedMenu() {
     header.classList.remove('fixed-menu')
   }
 }
-
 document.addEventListener('scroll', fixedMenu);
+
 
 const allFilters = document.querySelectorAll('.js-nav-games li a');
 const tabPane = document.querySelectorAll('.tab-pane-games');
-
 allFilters.forEach((filter, index) => {
   filter.addEventListener('click', (event) =>{
     event.preventDefault();
@@ -77,9 +75,9 @@ allFilters.forEach((filter, index) => {
   })
 })
 
+
 const btnOpenModal = document.querySelector('.js-open-modal');
 const btnCloseModal = document.querySelector('.js-close');
-
 btnOpenModal.addEventListener('click', (event) => {
   event.preventDefault();
   let tagHtml = document.documentElement;
@@ -92,10 +90,8 @@ btnCloseModal.addEventListener('click', () => {
   
 })
 
-
 const btnMenu = document.querySelectorAll('.js-btn-menu');
 const menuSite= document.querySelectorAll('.js-menu');
-
 btnMenu.forEach((btn,index) => {
   btn.addEventListener('click',(event) => {
     event.preventDefault();
@@ -118,3 +114,11 @@ btnMenu.forEach((btn,index) => {
     menuSite [index].classList.add('active');
   })
 })
+
+const btnMenuMobile = document.getElementById('js-btn-menu-mobile');
+const overlayMenu = document.querySelector('.js-overlay-mobile');
+function openMenuMobile() {
+document.documentElement.classList.toggle('menu-opened');
+}
+btnMenuMobile.addEventListener('click', openMenuMobile);
+overlayMenu.addEventListener('click', openMenuMobile);

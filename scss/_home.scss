@@ -203,6 +203,11 @@
       left: 16%;
     }
   }
+  @media(max-width: 1440px) {
+    .slide-thumbnail {
+      left: 8%;
+    }
+  }
   @media(max-width: 1366px) {
     .slide-thumbnail {
       left: 5%;
