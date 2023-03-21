@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="img/path2894.png"/>
 </h1>
 
 <h4 align="center"> 
-	🚧 NextLevelWeek 1.0 🚀 em construção... 🚧
+	🚧 Landing Page - Blizzard 🚀 em construção... 🚧
 </h4>
 
 <p align="center">
@@ -56,7 +56,7 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
+<a href="https://www.figma.com/file/mlAXZPRMfibrGXkJmUz5yn/BR-Challenges?node-id=18-659">
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
