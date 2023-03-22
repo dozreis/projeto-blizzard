@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="img/share-og.jpg"/>
+    <img alt="Blizzard" title="#Blizzard" src="img/share-og.jpg"/>
 </h1>
 
 <h4 align="center"> 
@@ -10,16 +10,6 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dozreis/projeto-blizzard?color=%2300AEFF">
 
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/dozreis/projeto-blizzard?color=%2300aeff">
-
-
-  <a href="https://www.twitter.com/tgmarinho/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
-  </a>
-
-
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/nlw1">
-  </a>
 
   <img alt="License" src="https://img.shields.io/github/license/dozreis/projeto-blizzard?color=%2300AEFF">
    <a href="https://github.com/tgmarinho/nlw1/stargazers">
