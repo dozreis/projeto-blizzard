@@ -7,9 +7,9 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dozreis/projeto-blizzard?color=%2300AEFF">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/nlw1">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/dozreis/projeto-blizzard?color=%2300aeff">
 
 
   <a href="https://www.twitter.com/tgmarinho/">
@@ -21,11 +21,12 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/nlw1">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/github/license/dozreis/projeto-blizzard?color=%2300AEFF">
    <a href="https://github.com/tgmarinho/nlw1/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/nlw1?style=social">
+    <img alt="Stars" src="https://img.shields.io/github/stars/dozreis/projeto-blizzard?color=%2300AEFF&style=social">
   </a>
 </p>
+
 
 
 ## 💻 Sobre o projeto
