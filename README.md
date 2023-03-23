@@ -57,7 +57,6 @@ O layout da aplicação está disponível no Figma:
 <p align="center">
   <img alt="Blizzard" title="#Blizzard" src="./img/mobile.svg" width="200px">
 
-  <img alt="Blizzard" title="Blizzard " src="./img/2-mobile.png" width="200px">
 </p>
 
 ### Web
