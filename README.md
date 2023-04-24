@@ -12,9 +12,7 @@
   <img alt="Repository Size" src="https://img.shields.io/github/repo-size/dozreis/projeto-blizzard?color=%2300aeff">
 
   <img alt="License" src="https://img.shields.io/github/license/dozreis/projeto-blizzard?color=%2300AEFF">
-   <a href="https://github.com/tgmarinho/nlw1/stargazers">
     <img alt="Stars" src="https://img.shields.io/github/stars/dozreis/projeto-blizzard?color=%2300AEFF&style=social">
-  </a>
 </p>
 
 
